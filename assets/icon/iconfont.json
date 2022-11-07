@@ -1,0 +1,30 @@
+{
+  "id": "3697331",
+  "name": "加减",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577340",
+      "name": "购物车-fill",
+      "font_class": "gouwuchefill",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "1268",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7727117",
+      "name": "1加号",
+      "font_class": "jiahao",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}
